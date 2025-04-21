@@ -10,7 +10,7 @@ A custom node for ComfyUI that provides an interactive radar chart widget to vis
 *   **Configurable Axes:** Set the number of output weights (axes) from 3 to 10.
 *   **Dynamic Outputs:** Provides individual float outputs for each axis.
 *   **Visual Feedback:** Clearly see the current weight distribution on the chart.
-*   **Reference Circles:** Background circles (0.5, 1.0, 1.5, 2.0) provide visual guidance for weight values.
+*   **Reference Circles:** Configurable background circles (0.5, 1.0, 1.5, 2.0) provide visual guidance for weight values.
 *   **Persistence:** Weight settings are saved within the workflow and automatically restored when the workflow is loaded. They also persist across ComfyUI restarts for the specific node instance.
 *   **Standard ComfyUI Integration:** Works seamlessly within the ComfyUI graph.
 
@@ -23,12 +23,14 @@ A custom node for ComfyUI that provides an interactive radar chart widget to vis
     ```bash
     git clone https://github.com/FunnyFinger/ComfyUi-RadarWeightNode.git 
     ```
+    *(Replace `YOUR_USERNAME` with your actual GitHub username once the repository is created)*
 
 2.  **Restart ComfyUI:**
     Close any running instance of ComfyUI and restart it.
 
 The node should now appear in the node menu under the `Spider/Widgets` category.
 
+*(Alternative: Use the ComfyUI Manager to search for and install "Radar Weights Node" - add this section if you submit it to the manager)*
 
 ## Usage
 
@@ -67,7 +69,7 @@ The node should now appear in the node menu under the `Spider/Widgets` category.
 
 ## Visual Showcase
 
-
+*(Here you can add GIFs demonstrating the node in action)*
 
 **Basic Usage:**
 `[GIF showing adding the node, changing axes_count, and dragging points]`
@@ -77,9 +79,11 @@ The node should now appear in the node menu under the `Spider/Widgets` category.
 
 ## Sample Workflow
 
+*(Add a screenshot or link to a JSON workflow file demonstrating a practical use case)*
 
 `[Image of a sample workflow using the Radar Weights Node]`
 
+[Link to example_workflow.json](./example_workflow.json) *(Optional: Add your JSON file to the repo)*
 
 ## Persistence Details
 
@@ -89,8 +93,9 @@ The node saves its current weights automatically.
 
 ## Contributing
 
+*(Optional: Add contribution guidelines if you want others to contribute)*
 Contributions are welcome! Please feel free to open an issue or submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. *(Optional: Create a LICENSE file with the MIT license text)* 
