@@ -78,7 +78,10 @@ The node should now appear in the node menu under the `Spider/Widgets` category.
 
 
 **Connecting to LoRAs (Example):**
-`[GIF showing outputs connected to multiple LoRA Stack nodes or similar]`
+
+<p align="center">
+  <img src="Demo_usage.png" alt="Sample Workflow" style="width: 100%; height: auto;">
+</p>
 
 ## Sample Workflow
 
