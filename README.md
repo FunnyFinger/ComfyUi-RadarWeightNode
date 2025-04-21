@@ -1,6 +1,9 @@
 # ComfyUI Radar Weights Node
 
-![Radar Weights Node UI](RadarWeightNode.png) <!-- Optional: Add a static image link here -->
+<p align="center">
+  <img src="RadarWeightNode.png" alt="Radar Weights Node" style="width: 50%; height: auto;">
+</p>
+
 
 A custom node for ComfyUI that provides an interactive radar chart widget to visually set and output multiple float weights simultaneously. Ideal for controlling parameters like LoRA weights, regional prompt emphasis, or any scenario requiring multiple related float values.
 
