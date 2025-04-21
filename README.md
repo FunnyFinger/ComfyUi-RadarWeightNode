@@ -16,6 +16,7 @@ A custom node for ComfyUI that provides an interactive radar chart widget to vis
 *   **Reference Circles:** Configurable background circles (0.5, 1.0, 1.5, 2.0) provide visual guidance for weight values.
 *   **Persistence:** Weight settings are saved within the workflow and automatically restored when the workflow is loaded. They also persist across ComfyUI restarts for the specific node instance.
 *   **Standard ComfyUI Integration:** Works seamlessly within the ComfyUI graph.
+*   **Spread out Ports:** output ports are spread out along the axis for easy identification.
 
 ## Installation
 
