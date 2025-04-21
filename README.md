@@ -100,9 +100,8 @@ The node saves its current weights automatically.
 
 ## Contributing
 
-*(Optional: Add contribution guidelines if you want others to contribute)*
 Contributions are welcome! Please feel free to open an issue or submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. *(Optional: Create a LICENSE file with the MIT license text)* 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
