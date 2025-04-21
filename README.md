@@ -71,7 +71,7 @@ The node should now appear in the node menu under the `Spider/Widgets` category.
 ## Visual Showcase
 
 <p align="center">
-  <img src="Demo.Gif" alt="Demo" style="width: 50%; height: auto;">
+  <img src="demo.gif" alt="Demo" style="width: 50%; height: auto;">
 </p>
 
 **Basic Usage:**
