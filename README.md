@@ -26,14 +26,12 @@ A custom node for ComfyUI that provides an interactive radar chart widget to vis
     ```bash
     git clone https://github.com/FunnyFinger/ComfyUi-RadarWeightNode.git 
     ```
-    *(Replace `YOUR_USERNAME` with your actual GitHub username once the repository is created)*
 
 2.  **Restart ComfyUI:**
     Close any running instance of ComfyUI and restart it.
 
 The node should now appear in the node menu under the `Spider/Widgets` category.
 
-*(Alternative: Use the ComfyUI Manager to search for and install "Radar Weights Node" - add this section if you submit it to the manager)*
 
 ## Usage
 
@@ -72,10 +70,12 @@ The node should now appear in the node menu under the `Spider/Widgets` category.
 
 ## Visual Showcase
 
-*(Here you can add GIFs demonstrating the node in action)*
+<p align="center">
+  <img src="Demo.Gif" alt="Demo" style="width: 50%; height: auto;">
+</p>
 
 **Basic Usage:**
-`[GIF showing adding the node, changing axes_count, and dragging points]`
+
 
 **Connecting to LoRAs (Example):**
 `[GIF showing outputs connected to multiple LoRA Stack nodes or similar]`
