@@ -82,11 +82,11 @@ The node should now appear in the node menu under the `Spider/Widgets` category.
 
 ## Sample Workflow
 
-*(Add a screenshot or link to a JSON workflow file demonstrating a practical use case)*
+<p align="center">
+  <img src="Example_workflow.png" alt="Sample Workflow" style="width: 50%; height: auto;">
+</p>
 
-`[Image of a sample workflow using the Radar Weights Node]`
-
-[Link to example_workflow.json](./example_workflow.json) *(Optional: Add your JSON file to the repo)*
+Drag and drop the image in ComfyUi for the sample workflow
 
 ## Persistence Details
 
