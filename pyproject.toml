@@ -1,0 +1,15 @@
+# pyproject.toml
+[project]
+name = "ComfyUi-RadarWeightNode"
+description = "A Custom Node for ComfyUi to add an interactive Radar graph to visually control weights."
+version = "1.0.0"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/FunnyFinger/ComfyUi-RadarWeightNode"
+
+[tool.comfy]
+PublisherId = "funnyfinger" 
+DisplayName = "Radar Weights Node"
+Icon = "" 
